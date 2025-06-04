@@ -213,7 +213,7 @@ public class Trivia extends JFrame implements ItemListener, ActionListener
 	{
 		final int FRAME_WIDTH = 350;
 		final int FRAME_HEIGHT = 120;
-		Final frame = new Final();
+		Trivia frame = new Trivia();
 		frame.setSize(FRAME_WIDTH, FRAME_HEIGHT);
 		frame.setVisible(true);
 	}
